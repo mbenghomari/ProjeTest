@@ -42,6 +42,13 @@ public class Ville {
 				+ superficie + "]";
 	}
 	 System.out.println("testo");
+	 
+	 
+	 for(int i=0;i<Ville;i++){
+		 System.out.println(i);
+	 }
+	 
+	 //KEKEKEKEKKEEKEKEKEKEKE
 	
 
 	
