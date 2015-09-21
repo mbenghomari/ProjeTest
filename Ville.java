@@ -41,7 +41,7 @@ public class Ville {
 		return "Ville [nom=" + nom + ", nbhab=" + nbhab + ", superficie="
 				+ superficie + "]";
 	}
-	 System.out.println("testo");
+	 System.out.println("testo caca");
 	
 
 	
