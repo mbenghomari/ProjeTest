@@ -4,6 +4,7 @@ public class Ville {
 	private int superficie;
 	
 	// JTE LACHE UN COM LACHES EN MOI 2
+	// KAUMENTERRE
 	
 	public Ville(){
 	}
